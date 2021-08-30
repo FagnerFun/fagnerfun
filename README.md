@@ -45,7 +45,7 @@ Procuro estar sempre ligado e motivado em conhecer novas tecnologias, e acompanh
 class Bio {
   name     = 'Fagner Muniz';
   title    = 'Senior Sofware Engineer';
-  graduate = ['Software Engineer','Mobile Devices and cloud computing'</i>]
+  graduate = ['Software Engineer','Mobile Devices and cloud computing'];
   location = 'Curitiba, PR';
 }
 ```
