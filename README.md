@@ -26,7 +26,7 @@
 </div>
 
 
-<img align="right" alt="Code Music" src="https://github.com/fagnerfun/fagnerfun/blob/main/images/animacao" width="400" height="230" />
+<img align="right" alt="animacao" src="https://github.com/FagnerFun/fagnerfun/blob/main/images/animacao.gif" width="400" height="230" />
 
 Seja bem vindo ao meu perfil GitHub 😄.
 
