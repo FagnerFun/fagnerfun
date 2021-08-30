@@ -30,8 +30,9 @@
 ```js
 class Bio {
   name     = 'Fagner Muniz';
+  nickname = 'Fun';
   title    = 'Senior Sofware Engineer';
-  graduate = ['Software Engineer','Mobile Devices and cloud computing'];
+  graduate = ['Software Engineering','Mobile Devices and cloud computing'];
   location = 'Curitiba, PR';
 }
 ```
