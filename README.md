@@ -26,7 +26,17 @@
 </div>
 
 <br />
+
+```js
+class Bio {
+  name     = 'Fagner Muniz';
+  title    = 'Senior Sofware Engineer';
+  graduate = ['Software Engineer','Mobile Devices and cloud computing'];
+  location = 'Curitiba, PR';
+}
+```
 <br />
+
 
 <img align="right" alt="animacao" src="https://github.com/FagnerFun/fagnerfun/blob/main/images/animacao.gif" width="400" height="230" />
 
@@ -38,17 +48,6 @@ Curiosidades sobre mim:
  - Praticante de Muay Thai | Boxe | Jiu Jitsu
  - Sou gemêo de um guri lindo 😏
  - Moro em curitiba, mas como diria o chorão do charlie brown jr "Eu vim de santos."
-
-Procuro estar sempre ligado e motivado em conhecer novas tecnologias, e acompanhar as novidades das linguagens que trabalho. 
-
-```js
-class Bio {
-  name     = 'Fagner Muniz';
-  title    = 'Senior Sofware Engineer';
-  graduate = ['Software Engineer','Mobile Devices and cloud computing'];
-  location = 'Curitiba, PR';
-}
-```
 
 <div align="center">
   <!--Top Languages-->
