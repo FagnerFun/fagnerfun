@@ -1,4 +1,4 @@
-### Hi there 👋
+### Seja bem vindo ao meu perfil GitHub 😄.
 
 <div align="center">
   <i>Você me encontra nas redes sociais:</i>
@@ -25,20 +25,19 @@
   </a>
 </div>
 
+<br />
+<br />
 
 <img align="right" alt="animacao" src="https://github.com/FagnerFun/fagnerfun/blob/main/images/animacao.gif" width="400" height="230" />
 
-Seja bem vindo ao meu perfil GitHub 😄.
 
-Meu nome é Fagner, trabalho com desenvolvimento de software a mais de 10 anos, com foco em plataforma .NET, sou um entusiasta de cloud (Azure mais me agrada), Mobile (nativo e cross plataform) e IoT.
+Meu nome é Fagner, trabalho com desenvolvimento de software a mais de 10 anos, com foco em plataforma .NET, sou um entusiasta de cloud ☁ (preferencia pelo Azure), Mobile 📱 (nativo e cross plataform) e IoT 📟.
 
-Pós graduação em Engenharia de software
-Pos Gradunuvem e mobile
 
 Curiosidades sobre mim:
  - Praticante de Muay Thai | Boxe | Jiu Jitsu
- - Sou gemêo de um guri lindo xD
- - Moro em curitiba, mas como diria charlie brown jr "Eu vim de santos."
+ - Sou gemêo de um guri lindo 😏
+ - Moro em curitiba, mas como diria o chorão do charlie brown jr "Eu vim de santos."
 
 Procuro estar sempre ligado e motivado em conhecer novas tecnologias, e acompanhar as novidades das linguagens que trabalho. 
 
@@ -46,7 +45,7 @@ Procuro estar sempre ligado e motivado em conhecer novas tecnologias, e acompanh
 class Bio {
   name     = 'Fagner Muniz';
   title    = 'Senior Sofware Engineer';
-  graduate = [<i>'Engenharia de software',' Dispositivos moveis e computação na nuvem'</i>]
+  graduate = ['Software Engineer','Mobile Devices and cloud computing'</i>]
   location = 'Curitiba, PR';
 }
 ```
