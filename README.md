@@ -42,7 +42,7 @@ class Bio {
 <img align="right" alt="animacao" src="https://github.com/FagnerFun/fagnerfun/blob/main/images/animacao.gif" width="400" height="230" />
 
 
-Meu nome é Fagner, trabalho com desenvolvimento de software a mais de 10 anos, com foco em plataforma .NET, sou um entusiasta de cloud ☁ (preferencia pelo Azure), Mobile 📱 (nativo e cross plataform) e IoT 📟.
+Meu nome é Fagner, trabalho com desenvolvimento de software a mais de 14 anos, com foco em plataforma .NET, sou um entusiasta de cloud ☁ (preferencia pelo Azure), Mobile 📱 (nativo e cross plataform) e IoT 📟.
 
 
 Curiosidades sobre mim:
