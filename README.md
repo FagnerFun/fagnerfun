@@ -32,7 +32,7 @@ class Bio {
   name     = 'Fagner Muniz';
   nickname = 'Fun';
   title    = 'Senior Sofware Architect';
-  graduate = ['Software Engineering','Mobile Devices and cloud computing'];
+  postgraduate = ['Software Engineering','Mobile Devices and cloud computing'];
   location = 'Curitiba, PR';
 }
 ```
