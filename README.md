@@ -33,6 +33,7 @@ class Bio {
   nickname = 'Fun';
   title    = 'Senior Sofware Architect';
   postgraduate = ['Software Engineering','Mobile Devices and cloud computing'];
+  cloud certificated = ['Azure','AWS'];
   location = 'Curitiba, PR';
 }
 ```
